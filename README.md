@@ -11,7 +11,7 @@ Add a vehicle to your garage, including a few necessary parameters.
 
 ![view](http://i.imgur.com/ZAaDU84.png)
 
-Once it's been added, you can input your weekly mileage manually or calibrate a trip using Swift's CoreLocation framework.
+Once it's been added, you can input your weekly mileage manually or calibrate a trip.  This feature uses Swift's CoreLocation framework.
 
 ![event](http://i.imgur.com/PTnH7ji.png)
 
