@@ -22,7 +22,7 @@ Add maintenance events like oil changes, tire rotations, and other inspections.
 Based on your weekly mileage and the distance between service events, the app calculates a probable date by which the maintenance should be performed.
 
 Unfinished features include:  
-1   Deleting vehicles  
-2   Deleting maintenance events  
-3   Kicking off notifications correctly.  
-4   Implementing iCloud key-value storage.  This isn't feasible without an iOS 8 device and $99 Developer license.  
+1.   Deleting vehicles  
+2.   Deleting maintenance events  
+3.   Kicking off notifications correctly.  
+4.   Implementing iCloud key-value storage.  This isn't feasible without an iOS 8 device and $99 Developer license.  
