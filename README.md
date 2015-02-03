@@ -19,7 +19,7 @@ Add maintenance events like oil changes, tire rotations, and other inspections.
 
 ![Imgur](http://i.imgur.com/FN5JZKj.png)
 
-Based on your weekly mileage and the distance between service events, the app calculates a probably date by which the maintenance should be performed.
+Based on your weekly mileage and the distance between service events, the app calculates a probable date by which the maintenance should be performed.
 
 Unfinished features include:
 1. Deleting vehicles
